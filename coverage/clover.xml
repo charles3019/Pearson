@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1651508077955" clover="3.2.0">
+  <project timestamp="1651508077955" name="All files">
+    <metrics statements="38" coveredstatements="37" conditionals="8" coveredconditionals="7" methods="4" coveredmethods="4" elements="50" coveredelements="48" complexity="0" loc="38" ncloc="38" packages="1" files="4" classes="4"/>
+    <file name="coinchange.js" path="D:\Pearson\coinchange.js">
+      <metrics statements="11" coveredstatements="11" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="14" type="stmt"/>
+      <line num="8" count="14" type="stmt"/>
+      <line num="9" count="14" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="5" type="stmt"/>
+      <line num="12" count="5" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+    </file>
+    <file name="palindromeChecker.js" path="D:\Pearson\palindromeChecker.js">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="6" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+    </file>
+    <file name="romanNumberConverter.js" path="D:\Pearson\romanNumberConverter.js">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="4" type="stmt"/>
+      <line num="17" count="4" type="stmt"/>
+      <line num="19" count="4" type="stmt"/>
+      <line num="20" count="52" type="stmt"/>
+      <line num="23" count="52" type="stmt"/>
+      <line num="24" count="52" type="stmt"/>
+      <line num="27" count="4" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+    </file>
+    <file name="sumFibNum.js" path="D:\Pearson\sumFibNum.js">
+      <metrics statements="12" coveredstatements="11" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <line num="2" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="9" count="3" type="stmt"/>
+      <line num="11" count="3" type="stmt"/>
+      <line num="12" count="17" type="stmt"/>
+      <line num="13" count="17" type="stmt"/>
+      <line num="14" count="17" type="stmt"/>
+      <line num="17" count="3" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

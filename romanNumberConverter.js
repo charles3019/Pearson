@@ -18,7 +18,6 @@ function romanNumberConverter(integerNum) {
     
       for (var i of Object.keys(romans)) {
         var q = Math.floor(integerNum / romans[i]);
-        // var q = Math.floor(39/10);
         // integerNum = integerNum - q * romans[i];
         integerNum -= q * romans[i];
         romanNumber += i.repeat(q);
